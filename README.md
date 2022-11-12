@@ -5,8 +5,8 @@ A python script to do math related to date objects and strings.
 
 ## Setup
 Clone this repo using SSH or HTTPS:\
-Using SSH: `git clone git@git.target.com:TaylorSly/date-math.git`\
-Using HTTPS: `git clone https://git.target.com/TaylorSly/date-math.git`
+Using SSH: `git clone git@github.com:slyt/date-math.git`\
+Using HTTPS: `git clone https://github.com/slyt/date-math.git`
 
 Change directory into firebolt_task_creation:\
 `cd date-math`
